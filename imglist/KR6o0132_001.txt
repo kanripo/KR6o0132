@@ -1,0 +1,3 @@
+001-0757a10	TKD 34-0491c	buddhist/K-koreana/34-tif/0400-0499/34_0491_C.TIF
+001-0757a25	TKD 34-0492a	buddhist/K-koreana/34-tif/0400-0499/34_0492_A.TIF
+001-0757b00	T 001-0757b	buddhist/T-taisho/T32/07/T32-0757.png
