@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:26.089886
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 三身梵讚
 #+PROPERTY: CBETA_ID T32n1677
 #+PROPERTY: ID KR6o0132
